@@ -6,6 +6,8 @@ Note: Giphy suggests using their SDK rather than API, and the included key is a 
 
 This is based on the [quill-emoji plugin](https://github.com/contentco/quill-emoji).
 
+![Screenshot](/screenshot.png?raw=true "Screenshot")
+
 ## Prerequisites
 
 [Quill.js](https://github.com/quilljs/quill), can also be `react-quill`;
